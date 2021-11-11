@@ -1,0 +1,22 @@
+2021-11-11 22:31:20 INFO  Log4j:10 - Test is starting...
+2021-11-11 22:31:24 INFO  Log4j:10 - Opening Page https://www.gittigidiyor.com/
+2021-11-11 22:31:24 INFO  Log4j:10 - Title: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-11-11 22:31:24 INFO  Log4j:10 - Go to Login Page
+2021-11-11 22:31:27 INFO  Log4j:10 - email: test7883932@gmail.com, password: 7883932.Ru
+2021-11-11 22:31:42 INFO  Log4j:10 - Test is ending.
+2021-11-11 22:31:58 INFO  Log4j:10 - Test is starting...
+2021-11-11 22:32:03 INFO  Log4j:10 - Opening Page https://www.gittigidiyor.com/
+2021-11-11 22:32:03 INFO  Log4j:10 - Title: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-11-11 22:32:03 INFO  Log4j:10 - Go to Login Page
+2021-11-11 22:32:05 INFO  Log4j:10 - email: test7883932@gmail.com, password: 7883932.Ru
+2021-11-11 22:32:19 INFO  Log4j:10 - Test is ending.
+2021-11-11 22:37:43 INFO  Log4j:10 - Test is starting...
+2021-11-11 22:37:49 INFO  Log4j:10 - Opening Page https://www.gittigidiyor.com/
+2021-11-11 22:37:49 INFO  Log4j:10 - Title: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-11-11 22:37:49 INFO  Log4j:10 - Go to Login Page
+2021-11-11 22:37:51 INFO  Log4j:10 - email: test7883932@gmail.com, password: 7883932.Ru
+2021-11-11 22:38:12 INFO  Log4j:10 - Test is starting...
+2021-11-11 22:38:17 INFO  Log4j:10 - Opening Page https://www.gittigidiyor.com/
+2021-11-11 22:38:17 INFO  Log4j:10 - Title: GittiGidiyor - Türkiye'nin Öncü Alışveriş Sitesi
+2021-11-11 22:38:17 INFO  Log4j:10 - Go to Login Page
+2021-11-11 22:38:19 INFO  Log4j:10 - email: test7883932@gmail.com, password: 7883932.Ru
